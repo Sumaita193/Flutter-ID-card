@@ -28,8 +28,8 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       body: Center(
         child: Container(
-          height: 370,
-          width: 200,
+          height: 600,
+          width: 400,
           decoration: const BoxDecoration(
             color: Colors.white,
             borderRadius: BorderRadius.all(
